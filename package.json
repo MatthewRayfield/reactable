@@ -45,5 +45,8 @@
     "react",
     "table",
     "data-tables"
-  ]
+  ],
+  "dependencies": {
+    "react-dom-factories": "^1.0.2"
+  }
 }
